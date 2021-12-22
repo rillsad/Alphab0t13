@@ -3,21 +3,23 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ 1 MINGGU = ${_minggu}
-⬡ 2 MINGGU = ${__minggu}
-⬡ 3 MINGGU = ${___minggu}
-⬡ 1 BULAN = ${_bulan}
-⬡ PERMANEN = ${_permanen}
-⬡ PERMANEN + USER PREM = ${__permanen}
-
+⬡ SEDIA OPEN SEWA BOT WA
+PERHARI 1K
+PERMINGGU 3.300K
+PERBULAN 6.700K
+MANEN 11K
+ON 24 JAM RUN heroku.
+FAST RESPON🙂
+TESTI CHAT AE JIBUN KO:)
+FITUR " BISA COBA SENDIRI :V
 
 ⬣ PRICE JADIBOT
 
-⬡ JADI BOT PERMANEN 25K
+⬡ JADI BOT PERMANEN 30K
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/62882005313829
 
 
 NOTE : 
