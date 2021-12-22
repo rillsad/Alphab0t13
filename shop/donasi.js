@@ -10,18 +10,18 @@ return `DONASI BISA VIA BANK / E-MONEY
 3. BNI 
 	ㅁ 881 0887 4350 47326
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ 852 8887 4350 47326u
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0858 4365 7690
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0858 4365 7690
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0858 4365 7690
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama R...k.
 `
 	}
 
