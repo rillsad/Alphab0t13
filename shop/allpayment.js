@@ -15,17 +15,17 @@ return `PAYMENT BY ZEEONE OFC
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0858 7690 4365
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0858 7690  4365
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0858  7690  4365
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama R..k.
 
 *📲 PULSA*
 
-Tidak tersedia
+ Bulm ada:/
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
